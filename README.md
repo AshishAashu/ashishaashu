@@ -149,9 +149,9 @@ I enjoy solving problems around **scale, performance, and fault tolerance**, and
 ## 📫 Connect With Me
 
 📧 **Email:** career.ashishkaushal@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/your-link-here
+🔗 **LinkedIn:** https://www.linkedin.com/in/ashishkumarkaushal
 
-## 📬 Connect With Me<br><br>| Icon | Contact Detail |<br>| :--- | :--- |<br>| 📧 | `career.ashishkaushal@gmail.com` |<br>| 🔗 | [LinkedIn Profile Link] |<br>| 📍 | Lucknow, Uttar Pradesh, India |
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashishaashu&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
