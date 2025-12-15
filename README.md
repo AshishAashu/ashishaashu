@@ -1,5 +1,157 @@
 # 💫 About Me:
-# 👋 Hello! I'm Ashish Kumar Kaushal<br><br>### 💼 Senior Software Engineer<br><br>I am an experienced **Senior Software Engineer** with over 7 years of expertise in designing, implementing, and scaling robust backend solutions. My primary focus is on delivering reliable, high-performance systems and enhancing overall system stability through effective monitoring and tooling.<br><br>I thrive in **Agile** environments and have a proven track record of collaborating effectively with teams to manage end-to-end development cycles.<br><br>---<br><br>## ✨ Key Expertise & Achievements<br><br>I specialize in building highly scalable, resilient systems that handle high transaction volumes.<br><br>* **📈 High Scalability & Performance:**<br>    * Designed and implemented horizontally scalable microservices using **Spring Boot** and **Kafka**.<br>    * Successfully sustained **4000 TPS** in production for a crucial store cashback system.<br>* **🛠️ Architectural Design:**<br>    * Designed a horizontally scalable bill payment service utilizing **Spring Boot, Kafka, MySQL, and Elasticsearch**.<br>    * This architecture reduced merchant payment processing time by **40%**.<br>* **💡 Utility Development:**<br>    * Engineered a configuration-driven **JSON Transformation Library** (Java/Jackson) that dramatically cut down on new implementation time by **70%**, greatly increasing reusability.<br>* **🛡️ Core Systems & Security:**<br>    * Developed a secure **Document Management System (DMS)** leveraging **AWS S3** for encrypted storage.<br>    * Contributed to critical systems like an offline test application using **PyQt4 (Python)** that successfully enabled 10,000+ rural students to access online tests.<br><br>---<br><br>## ⚙️ My Tech Stack<br><br>| Category | Key Technologies |<br>| :--- | :--- |<br>| **☕ Languages** | Java (8, 11, 17) & Python 🐍, Ruby 💎 |<br>| **💻 Frameworks** | Spring Boot 🌱, Hibernate, RoR, PyQt4 |<br>| **💾 Databases** | MySQL, MongoDB, Redis, Elasticsearch 🔍 |<br>| **☁️ DevOps & Tools** | Kafka, Docker, Kubernetes (K8s) 🐳, Jenkins, AWS (S3) |<br>| **📊 Monitoring** | Prometheus, Kibana, Grafana |<br>| **📝 Other Tools** | Jira, GIT, PowerBI |<br><br>---<br><br>## 📬 Connect With Me<br><br>| Icon | Contact Detail |<br>| :--- | :--- |<br>| 📧 | `career.ashishkaushal@gmail.com` |<br>| 🔗 | [LinkedIn Profile Link] |<br>| 📍 | Lucknow, Uttar Pradesh, India |
+# 👋 Hi, I'm Ashish Kumar Kaushal
+
+## 🚀 Senior Software Engineer | Backend • Distributed Systems • Telecom
+
+💡 **7+ years of experience** building **scalable, reliable backend systems**.  
+I specialize in **high-throughput microservices**, **distributed systems**, **SRE practices**, and **telecom/WebRTC infrastructure**.
+
+I enjoy solving problems around **scale, performance, and fault tolerance**, and I’ve built production systems handling **thousands of TPS** in real-world environments.
+
+---
+
+## 🧠 What I Bring to the Table
+
+🔹 Backend & Distributed Systems Design  
+🔹 High-Scale Microservices (Kafka-driven)  
+🔹 System Reliability Engineering (SRE)  
+🔹 Telecom, WebRTC & Media Gateways  
+🔹 Developer Productivity & Reusable Libraries  
+
+---
+
+## 🏆 Key Achievements
+
+⚡ **High Throughput Systems**  
+- Built and scaled **Spring Boot + Kafka** microservices sustaining **4000 TPS in production** for merchant cashback systems.
+
+🧩 **Reusable JSON Transformation Framework**  
+- Designed a **config-driven JSON transformation library (Java + Jackson)**  
+- ⏱️ Reduced new integration effort by **70%**.
+
+📈 **Large-Scale Bill Payment Platform**  
+- Designed horizontally scalable services using **Kafka, Elasticsearch, MySQL**  
+- 🚀 Reduced processing time by **40%** for enterprise merchants.
+
+🔐 **Secure Document Management**  
+- Implemented encrypted storage on **AWS S3**  
+- 📉 Reduced T&C creation time by **50%**.
+
+🌍 **Social Impact Engineering**  
+- Built offline test solutions enabling **10,000+ rural students** to access online exams.
+
+---
+
+## 💼 Professional Experience
+
+### ☁️ Salesforce  
+**Senior Member of Technical Staff (SMTS)**  
+📍 Hyderabad (Remote) | **Dec 2024 – Present**  
+- Working on large-scale, enterprise cloud platforms with strong focus on scalability and reliability.
+
+---
+
+### 🚀 BharatPe  
+**Senior Software Engineer**  
+📍 Gurgaon (Remote) | **Sep 2024 – Dec 2024**  
+- Designed and delivered a **JSON transformation library** used across backend systems.
+- Improved data pipeline flexibility and maintainability.
+
+---
+
+### 💸 Paytm (One97 Communications)  
+**Senior Software Engineer**  
+📍 Noida (Remote) | **Aug 2021 – Aug 2024**
+
+🔹 **Store Voucher & Cashback Platform**  
+- Led backend design for high-throughput cashback services  
+- ⚡ Achieved **500 TPS (testing)** and **4000 TPS (production)** via Kafka pipelines
+
+🔹 **Merchant Bill Payment System**  
+- Enabled bulk bill payments (**5000 bills per batch**)  
+- 📉 Reduced processing time by **40%** and support tickets by **25%**
+
+🔹 **DMS & T&C Platform**  
+- Built encrypted document storage using **AWS S3**  
+- 🕒 Reduced agreement creation time by **50%**
+
+---
+
+### 💡 Altran  
+**Software Engineer**  
+📍 Gurgaon | **Jul 2019 – Aug 2021**
+
+- Built an internal **Project Management System**
+- Worked with **Java, Spring Boot, ReactJS, Docker, AWS, PowerBI**
+- 📊 Improved delivery timelines and reporting efficiency
+
+---
+
+### 🎓 VLYOP Technologies  
+**Software Developer**  
+📍 Gurgaon | **Feb 2018 – Jul 2019**
+
+- Developed offline online-test platforms using **Spring Boot, MySQL, PyQt**
+- 🌾 Enabled **10,000+ rural students** to participate in exams
+- 📈 Increased test participation by **30%**
+
+---
+
+## 🌐 Open Source Contributions
+
+🔊 **FreeSWITCH** – Telecom / Media Gateway  
+- Contributing to core media engine & signaling logic
+
+🌐 **STUNner** – Kubernetes WebRTC Gateway  
+- Enhancing NAT traversal, security & cloud-native WebRTC
+
+🔐 **STUNner-Auth** – WebRTC Security  
+- Building REST APIs for secure, time-limited TURN credentials
+
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Languages
+- Java (8, 11, 17)
+- Python
+- Ruby
+
+### 🌱 Frameworks
+- Spring Boot
+- Hibernate
+- Ruby on Rails
+
+### 🗄️ Databases & Messaging
+- MySQL, MongoDB, Redis
+- Elasticsearch
+- Kafka
+
+### ☁️ Cloud, DevOps & Observability
+- AWS (S3)
+- Docker 🐳, Kubernetes
+- Prometheus, Grafana, Kibana
+- Jenkins, Git, Jira
+
+### 🧪 Testing
+- JUnit
+- Mockito
+
+---
+
+## 🎯 Career Focus
+
+🎯 Passionate about **backend engineering, distributed systems, and telecom platforms**  
+🚀 Looking to contribute to **engineering-driven organizations** like **Atlassian**, where scale and reliability matter.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** career.ashishkaushal@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/your-link-here
+
+## 📬 Connect With Me<br><br>| Icon | Contact Detail |<br>| :--- | :--- |<br>| 📧 | `career.ashishkaushal@gmail.com` |<br>| 🔗 | [LinkedIn Profile Link] |<br>| 📍 | Lucknow, Uttar Pradesh, India |
 
 
 ## 🌐 Socials:
