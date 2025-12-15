@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hello! I'm Ashish Kumar Kaushal<br><br>### 💼 Senior Software Engineer<br><br>I am an experienced **Senior Software Engineer** with over 7 years of expertise in designing, implementing, and scaling robust backend solutions. My primary focus is on delivering reliable, high-performance systems and enhancing overall system stability through effective monitoring and tooling.<br><br>I thrive in **Agile** environments and have a proven track record of collaborating effectively with teams to manage end-to-end development cycles.<br><br>---<br><br>## ✨ Key Expertise & Achievements<br><br>I specialize in building highly scalable, resilient systems that handle high transaction volumes.<br><br>* **📈 High Scalability & Performance:**<br>    * Designed and implemented horizontally scalable microservices using **Spring Boot** and **Kafka**.<br>    * Successfully sustained **4000 TPS** in production for a crucial store cashback system.<br>* **🛠️ Architectural Design:**<br>    * Designed a horizontally scalable bill payment service utilizing **Spring Boot, Kafka, MySQL, and Elasticsearch**.<br>    * This architecture reduced merchant payment processing time by **40%**.<br>* **💡 Utility Development:**<br>    * Engineered a configuration-driven **JSON Transformation Library** (Java/Jackson) that dramatically cut down on new implementation time by **70%**, greatly increasing reusability.<br>* **🛡️ Core Systems & Security:**<br>    * Developed a secure **Document Management System (DMS)** leveraging **AWS S3** for encrypted storage.<br>    * Contributed to critical systems like an offline test application using **PyQt4 (Python)** that successfully enabled 10,000+ rural students to access online tests.<br><br>---<br><br>## ⚙️ My Tech Stack<br><br>| Category | Key Technologies |<br>| :--- | :--- |<br>| **☕ Languages** | Java (8, 11, 17) & Python 🐍, Ruby 💎 |<br>| **💻 Frameworks** | Spring Boot 🌱, Hibernate, RoR, PyQt4 |<br>| **💾 Databases** | MySQL, MongoDB, Redis, Elasticsearch 🔍 |<br>| **☁️ DevOps & Tools** | Kafka, Docker, Kubernetes (K8s) 🐳, Jenkins, AWS (S3) |<br>| **📊 Monitoring** | Prometheus, Kibana, Grafana |<br>| **📝 Other Tools** | Jira, GIT, PowerBI |<br><br>---<br><br>## 📬 Connect With Me<br><br>| Icon | Contact Detail |<br>| :--- | :--- |<br>| 📧 | `career.ashishkaushal@gmail.com` |<br>| 🔗 | [LinkedIn Profile Link] |<br>| 📍 | Lucknow, Uttar Pradesh, India |
 
-<!--
-**AshishAashu/ashishaashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishkumarkaushal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:career.ashishkaushal@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashishaashu&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashishaashu&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishaashu&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ashishaashu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
